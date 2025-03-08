@@ -12,6 +12,7 @@ export default defineConfig({
         short_name: "Calc PWA",
         description: "A simple PWA calculator built with React and Vite",
         theme_color: "#222",
+        start_url: "/",
         background_color: "#f4f4f4",
         display: "standalone",
         icons: [
